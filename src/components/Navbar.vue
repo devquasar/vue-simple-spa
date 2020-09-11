@@ -1,9 +1,7 @@
 <template>
   <nav class="blue darken-3">
     <div class="nav-wrapper">
-      <router-link to="https://github.com/devquasar" class="brand-logo"
-        >d3vquasar</router-link
-      >
+      <a href="https://github.com/devquasar" class="brand-logo">d3vquasar</a>
       <ul class="right hide-on-med-and-down">
         <router-link tag="li" to="/" exact active-class="active">
           <a href="/">Create</a>
